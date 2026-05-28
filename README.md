@@ -23,4 +23,4 @@ Search for any movie to see its poster, release year, plot and IMDb rating.
 4. Open `index.html` in your browser
 
 ## Live Demo
-[View Live](your-github-pages-link-here)
+[View Live](https://tumelosine.github.io/movie-search-app/)
