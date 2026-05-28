@@ -22,5 +22,8 @@ Search for any movie to see its poster, release year, plot and IMDb rating.
 3. Add your OMDB API key (free at https://www.omdbapi.com)
 4. Open `index.html` in your browser
 
+**Note:** The API key is intentionally exposed in this project for live demo purposes. 
+In a production app this would be handled in server side.
+
 ## Live Demo
 [View Live](https://tumelosine.github.io/movie-search-app/)
